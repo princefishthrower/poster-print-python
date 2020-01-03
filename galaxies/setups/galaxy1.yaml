@@ -1,0 +1,11 @@
+probability_map: # an svg with only black to white (gray) values and shapes of where the stars will be laid
+layers:
+  -name: 1
+    -number: 500
+    -shape: circle # circle, star, or
+    -color: red
+    -size: 5
+    -blur: none #blur amount in inkscape units
+  -name: 2
+  
+  
